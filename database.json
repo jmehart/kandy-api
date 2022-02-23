@@ -1,0 +1,90 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "Midtown",
+        "address": "1507 21st Ave S, Nashville, TN 37212",
+        "phone": "(615) 329-2003"
+      },
+      {
+        "id": 2,
+        "name": "Downtown",
+        "address": "1111 Broadway, Nashville, TN 37203",
+        "phone": "(615) 256-7635"
+      },
+      {
+        "id": 3,
+        "name": "West",
+        "address": "4601 Alabama Ave, Nashville, TN 37209",
+        "phone": "(615) 383-1803"
+      },
+      {
+        "id": 4,
+        "name": "East",
+        "address": "766 Douglas Ave, Nashville, TN 37207",
+        "phone": "(615) 226-4470"
+      }
+    ],
+    "productTypes": [
+        {
+          "id": 1,
+          "name": "Hard Candy"
+        },
+        {
+          "id": 2,
+          "name": "Gum"
+        },
+        {
+          "id": 3,
+          "name": "Chocolate"
+        },
+        {
+          "id": 4,
+          "name": "Sodas"
+        }
+      ],
+    "products": [
+        {
+          "id": 1,
+          "name": "Snickers Bar",
+          "price": 1.99,
+          "productTypeId": 3
+        },
+        {
+          "id": 2,
+          "name": "Tootsie Pop",
+          "price": 1.09,
+          "productTypeId": 1
+        },
+        {
+          "id": 3,
+          "name": "CBD Soda",
+          "price": 5.25,
+          "productTypeId": 4
+        },
+        {
+          "id": 4,
+          "name": "Reese's",
+          "price": 1.69,
+          "productTypeId": 3
+        },
+        {
+          "id": 5,
+          "name": "Zebra Stripes",
+          "price": 2.50,
+          "productTypeId": 2
+        },
+        {
+          "id": 6,
+          "name": "Lindt Bar",
+          "price": 5.99,
+          "productTypeId": 3
+        },
+        {
+          "id": 7,
+          "name": "Nerds Rope",
+          "price": 1.99,
+          "productTypeId": 1
+        }
+      ]
+} 
